@@ -49,7 +49,7 @@ function draw()
 
 	//Write your code below here ...
 	rect(352,280,342,712)
-	stroke(0,0,255)
+	stroke(0,255,255)
 	rect(1090,210,170,302)
-	stroke(0,255,0)
+	stroke(255,255,0)
 }
